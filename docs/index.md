@@ -38,12 +38,12 @@ A continuación se muestra la programación didáctica con los porcentajes corre
 
 | **Unidad de Trabajo (UT)**                                         | **Trimestre de Evaluación** | **Porcentaje Total (%)** | **Evaluación**                           |
 |-------------------------------------------------------------------|-----------------------------|--------------------------|------------------------------------------|
-| **UT1. La sostenibilidad y el desarrollo sostenible**              | Primer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
-| **UT2. Los retos de la sostenibilidad actuales**                   | Primer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
-| **UT3. La sostenibilidad en el desempeño profesional y personal**  | Segundo Trimestre            | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
-| **UT4. Productos y servicios sostenibles**                         | Segundo Trimestre            | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
-| **UT5. Actividades sostenibles**                                   | Tercer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
-| **UT6. El plan de negocio empresarial**                            | Tercer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT1. La sostenibilidad y sus retos**              | Primer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT2. Las metas de la sostenibilidad: los ODS**                   | Primer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT3. Empresa y medio ambiente: Los aspectos ASG**  | Segundo Trimestre            | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT4. Diseño y producción sostenibles**                         | Segundo Trimestre            | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT5. Midiendo la sostenibilidad**                                   | Tercer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
+| **UT6. El plan de sostenibilidad y otros documentos**                            | Tercer Trimestre             | 100%                     | 30% Prácticas y actividades, 70% Examen teórico |
 
 
 
@@ -51,11 +51,11 @@ A continuación se muestra la programación didáctica con los porcentajes corre
 
 ¡Te deseo mucho éxito en este curso y te animo a participar activamente en todas las actividades propuestas!
 
-## **Estructura del curso**
+<!-- ## **Estructura del curso**
 En este curso, trabajaremos en diferentes unidades que te ayudarán a desarrollar tus habilidades en redes de comunicación.
 
-###[Unidad 1. - La Sostenibilidad:](unidad1/unidad1.md)
-###[Unidad 2. - Los retos sociambientales actuales](unidad2/unidad2.md)
+###[Unidad 1. - La sostenibilidad y sus retos:](unidad1/unidad1.md)
+###[Unidad 2. - Las metas de la sostenibilidad: los ODS](unidad2/unidad2.md) -->
 
 Haz clic en las secciones anteriores para comenzar a aprender más sobre redes de comunicación.
 

@@ -2,8 +2,8 @@ site_name: Sostenibilidad Aplicada al Sistema Productivo
 
 nav:
   - Home: index.md
-  - Unidad 1. - La Sostenibilidad: unidad1/unidad1.md
-  - Unidad 2. - Los retos sociambientales actuales: unidad2/unidad2.md
+  # - Unidad 1. - La Sostenibilidad: unidad1/unidad1.md
+  # - Unidad 2. - Los retos sociambientales actuales: unidad2/unidad2.md
 
 theme:
   name: material
